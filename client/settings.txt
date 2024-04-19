@@ -1,0 +1,4 @@
+root: C:\Users\natha\OneDrive\Desktop\BlogBox\client 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
